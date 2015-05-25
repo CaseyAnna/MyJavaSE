@@ -1,0 +1,14 @@
+[INFO ] 2015-05-06 18:33:34,845    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 18:34:54,744    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2015-05-06 20:29:04,720     org.taoran.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40024 errmsg:invalid sub button type
+[INFO ] 2015-05-06 20:29:04,728    org.taoran.weixin.main.MenuManager     - 菜单创建失败，错误码：40024
+[ERROR] 2015-05-06 20:29:57,439     org.taoran.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40024 errmsg:invalid sub button type
+[INFO ] 2015-05-06 20:29:57,446    org.taoran.weixin.main.MenuManager     - 菜单创建失败，错误码：40024
+[INFO ] 2015-05-06 20:31:07,610    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 20:40:18,498    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 21:29:08,750    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 21:35:54,305    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 21:51:45,636    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 22:06:38,053    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 22:42:52,155    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-05-06 23:06:49,391    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
