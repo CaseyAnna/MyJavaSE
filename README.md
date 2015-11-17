@@ -4,7 +4,7 @@
  *	Record the learning progress every day!  
  **********************************************
  *	Chat with me !
- *	http://blog.csdn.net/plu_mik
+ *	http://www.tinymood.com
  *	qq: 932191671
- *	Email: kotori92@vip.qq.com    
+ *	Email: 932191671  
  *********************************************/
