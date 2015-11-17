@@ -1,0 +1,5 @@
+[ERROR] 2015-05-05 13:21:02,843     org.taoran.weixin.util.WeixinUtil     - 创建菜单失败 errcode:48001 errmsg:api unauthorized
+[INFO ] 2015-05-05 13:21:02,845    org.taoran.weixin.main.MenuManager     - 菜单创建失败，错误码：48001
+[ERROR] 2015-05-05 13:23:02,916     org.taoran.weixin.util.WeixinUtil     - 创建菜单失败 errcode:48001 errmsg:api unauthorized
+[INFO ] 2015-05-05 13:23:02,917    org.taoran.weixin.main.MenuManager     - 菜单创建失败，错误码：48001
+[INFO ] 2015-05-05 13:31:48,658    org.taoran.weixin.main.MenuManager     - 菜单创建成功！

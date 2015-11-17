@@ -1,0 +1,9 @@
+[INFO ] 2015-04-29 09:25:06,184    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-04-29 09:51:47,289    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-04-29 10:31:25,550    org.taoran.weixin.main.MenuManager     - 菜单删除成功！
+[INFO ] 2015-04-29 10:34:48,765    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-04-29 10:47:45,052    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[ERROR] 2015-04-29 10:54:08,167     org.taoran.weixin.util.WeixinUtil     - 创建菜单失败 errcode:40026 errmsg:invalid sub button key size
+[INFO ] 2015-04-29 10:54:08,171    org.taoran.weixin.main.MenuManager     - 菜单创建失败，错误码：40026
+[INFO ] 2015-04-29 10:54:51,123    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
+[INFO ] 2015-04-29 10:58:18,494    org.taoran.weixin.main.MenuManager     - 菜单创建成功！
