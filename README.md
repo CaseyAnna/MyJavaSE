@@ -6,5 +6,5 @@
  *	Chat with me !
  *	http://www.tinymood.com
  *	qq: 932191671
- *	Email: 932191671@qq.com  
+ *	Email: 932191671  
  *********************************************/
