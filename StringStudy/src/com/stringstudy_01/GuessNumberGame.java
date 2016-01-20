@@ -2,7 +2,6 @@ package com.stringstudy_01;
 
 import java.util.Scanner;
 
-//Ğ¡ÓÎÏ·
 public class GuessNumberGame {
 	private GuessNumberGame() {
 	}
