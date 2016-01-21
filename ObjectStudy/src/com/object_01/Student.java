@@ -28,12 +28,10 @@ public class Student implements Cloneable{
 		this.age = age;
 	}
 
-	@Override
 	public String toString() {
 		return "Student [name=" + name + ", age=" + age + "]";
 	}
 
-	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
@@ -42,7 +40,6 @@ public class Student implements Cloneable{
 		return result;
 	}
 
-	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
 			return true;
@@ -61,33 +58,6 @@ public class Student implements Cloneable{
 		return true;
 	}
 	
-//	@Override
-//	public boolean equals(Object obj) {    
-//		//default:return super.equals(obj);
-//		//equals代码优化 
-//		//1.提高效率
-//		if (this == obj) {
-//			return true;
-//		}
-//		//2.提高程序健壮性
-//		//先判断(对象是否是某个类的对象)再向下转型
-//		//instanceof
-//		 if (!(obj instanceof Student)) {
-//			 return false;
-//		 }
-//		//downcasting
-//		Student s = (Student)obj;
-//		//方式1
-////		if (this.name.equals(s.name) && this.age == s.age) {
-////			return true;
-////		}else {
-////			return false;
-////		}
-//		//方式2
-//		return this.name.equals(s.name) && this.age == s.age;
-//	}
-	
-	@Override
 	protected Object clone() throws CloneNotSupportedException {
 		return super.clone();
 	}
