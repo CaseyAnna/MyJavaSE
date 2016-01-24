@@ -1,6 +1,6 @@
 /* 
- * Author:陶然 
- * StudentNum：23020141153197
+ * Author:锟斤拷然 
+ * StudentNum锟斤拷23020141153197
  * Date:2015-3-25
  * 
  **/
@@ -19,19 +19,16 @@ import java.net.UnknownHostException;
 public class SaberClient {
 	public static void main(String[] args) throws UnknownHostException,
 			IOException {
-		//desIP为服务器IP地址 这里为运行本程序的本机IP
 		String desIP = InetAddress.getLocalHost().getHostAddress();
 		
 		Socket s = new Socket(desIP, 10087);
 
-		// 键盘录入字符流
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		// 包装通道内的字节流
+
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
 				s.getOutputStream()));
 		String line = null;
 		
-		//输入quit结束键盘录入，断开连接
 		while (true) {
 			System.out.print("input:");
 			line = br.readLine();
@@ -45,7 +42,7 @@ public class SaberClient {
 			String[] strArray = line.split(" ");
 			System.out.println("word(s):"+strArray.length);
 		}
-		//释放连接
+
 		s.close();
 	}
 }

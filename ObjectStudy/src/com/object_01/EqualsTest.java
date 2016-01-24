@@ -1,6 +1,5 @@
 package com.object_01;
 
-//equals·½·¨
 public class EqualsTest {
 	public static void main(String[] args) {
 		Student s1 = new Student("Ta", 20);
